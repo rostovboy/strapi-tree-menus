@@ -148,7 +148,7 @@ export function SortableTree({ collapsible, indicator = false, indentationWidth 
           )
         })}
         <Button
-          size='sm'
+          size='S'
           startIcon={<Plus />}
           variant={'secondary'}
           paddingTop={2}
